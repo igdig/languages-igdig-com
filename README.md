@@ -13,4 +13,4 @@ Usually, IGDIG team staff handle submitions on [**Weblate**](https://translate.i
 
 ---------
 
-**Join us and make IGDIG more accessible to people all over the world(universe)!:earth_africa::earth_americas::earth_asia::
+**Join us and make IGDIG more accessible to people all over the world(universe)!:earth_americas::earth_asia::earth_africa:
