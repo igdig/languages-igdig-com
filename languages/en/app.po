@@ -1,0 +1,80 @@
+msgctxt "[\"NAV-GAME\"]"
+msgid "GAMES"
+msgstr "GAMES"
+
+msgctxt "[\"NAV-APP\"]"
+msgid "APPS"
+msgstr "APPS"
+
+msgctxt "[\"NAV-XAPK\"]"
+msgid "XAPK"
+msgstr "XAPK"
+
+msgctxt "[\"NAV-NEW\"]"
+msgid "NEW"
+msgstr "NEW"
+
+msgctxt "[\"NAV-PRODUCTS\"]"
+msgid "PRODUCTS"
+msgstr "PRODUCTS"
+
+msgctxt "[\"NAV-NEW_GAME\"]"
+msgid "NEW GAME"
+msgstr "NEW GAME"
+
+msgctxt "[\"NAV-NEW_APP\"]"
+msgid "NEW APP"
+msgstr "NEW APP"
+
+msgctxt "[\"NAV-XAPK_GAME\"]"
+msgid "XAPK GAME"
+msgstr "XAPK GAME"
+
+msgctxt "[\"NAV-XAPK_APP\"]"
+msgid "XAPK APP"
+msgstr "XAPK APP"
+
+msgctxt "[\"NAV-APK_INSTALL\"]"
+msgid "APK Install"
+msgstr "APK Install"
+
+msgctxt "[\"NAV-APK_DOWNLOAD\"]"
+msgid "APK Download"
+msgstr "APK Download"
+
+msgctxt "[\"NAV-APK_VERIFICATION\"]"
+msgid "APK Verification"
+msgstr "APK Verification"
+
+msgctxt "[\"NAV-APKPURE_APP\"]"
+msgid "APKPure App"
+msgstr "APKPure App"
+
+msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
+msgid "Cloud Phone Emulator"
+msgstr "Cloud Phone Emulator"
+
+msgctxt "[\"DOWNLOAD\"]"
+msgid "Download"
+msgstr "Download"
+
+msgctxt "[\"DOWNLOAD_AVAILABLE\"]"
+msgid "Download Variant {0}"
+msgstr "Download Variant {0}"
+
+msgctxt "[\"FAST_DOWNLOAD\"]"
+msgid "Fast Download"
+msgstr "Fast Download"
+
+msgctxt "[\"IGNORE\"]"
+msgid "Ignore"
+msgstr "Ignore"
+
+msgctxt "[\"OK\"]"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "[\"BUY\"]"
+msgid "Buy"
+msgstr "Buy"
+
